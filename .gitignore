@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+*.tar.gz
+*.tgz
+.openai/local/
+bot/data/
+*.lock
+fila*.json
+*backup*.json

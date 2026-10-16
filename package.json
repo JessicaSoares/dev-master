@@ -1,0 +1,1 @@
+{"name":"dev-master","version":"0.1.0","private":true,"description":"Ecossistema pessoal de evolução e candidaturas","scripts":{"start":"node server.cjs","check":"node --check dist/app.js","test:bot":"node --test bot/engine.test.cjs bot/greenhouse.test.cjs bot/candidate-sites.test.cjs"}}
